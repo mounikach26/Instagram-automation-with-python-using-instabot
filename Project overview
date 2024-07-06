@@ -1,0 +1,10 @@
+#Project overview
+
+#Steps
+
+Install the `instabot` library using pip:
+"pip install instabot"
+
+We can post pictures/ videos, Follow/Unfollow Friends,
+Add Captions to posts, Comment on posts, CHeck the followers/Following list of any user
+and many more using the instabot with python code
